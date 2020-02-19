@@ -27,8 +27,6 @@ export default () => (
         </ExtLink>
       </h2>
 
-      <Features />
-
       <div className="explanation">
         <p>
           This is a statically generated{' '}
